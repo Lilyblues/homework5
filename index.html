@@ -9,7 +9,7 @@
 <body>
 <div class="content">
 	<div class="header">
-    <img src="img/logo.png">
+    <img src="logo.png">
     <div class="quickLink">
     	<a href="#">教师进入</a>
         <a href="#">教师进入</a>
